@@ -1,6 +1,7 @@
 Blog
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+
 <!--
 **hyunsuk1111/hyunsuk1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
